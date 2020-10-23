@@ -1,0 +1,1 @@
+escape single quote within single quote using ANSI n:'
